@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "position": "web blockchain",
+    "department": "Engineering",
+    "salary": 70000,
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "position": "web devloper",
+    "department": "Management",
+    "salary": 70000,
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "position": "ajit waman",
+    "department": "Design",
+    "salary": 70000,
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "position": "DevOps Engineer",
+    "department": "Engineering",
+    "salary": 80000,
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Sarah Lee",
+    "email": "sarah.lee@example.com",
+    "position": "Software Engineer",
+    "department": "Engineering",
+    "salary": 75000,
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "name": "David Miller",
+    "email": "david.miller@example.com",
+    "position": "Product Manager",
+    "department": "Management",
+    "salary": 90000,
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "name": "Olivia Davis",
+    "email": "olivia.davis@example.com",
+    "position": "Graphic Designer",
+    "department": "Design",
+    "salary": 60000,
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "name": "James Wilson",
+    "email": "james.wilson@example.com",
+    "position": "UI/UX Designer",
+    "department": "Design",
+    "salary": 68000,
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "name": "Sophia Moore",
+    "email": "sophia.moore@example.com",
+    "position": "QA Engineer",
+    "department": "Engineering",
+    "salary": 72000,
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "name": "Liam Anderson",
+    "email": "liam.anderson@example.com",
+    "position": "Data Scientist",
+    "department": "Engineering",
+    "salary": 95000,
+    "isActive": true
+  },
+  {
+    "id": 11,
+    "name": "Isabella Taylor",
+    "email": "isabella.taylor@example.com",
+    "position": "Backend Developer",
+    "department": "Engineering",
+    "salary": 70000,
+    "isActive": true
+  },
+  {
+    "id": 12,
+    "name": "Elijah Martinez",
+    "email": "elijah.martinez@example.com",
+    "position": "Cloud Architect",
+    "department": "Engineering",
+    "salary": 120000,
+    "isActive": true
+  },
+  {
+    "id": 13,
+    "name": "Mia Garcia",
+    "email": "mia.garcia@example.com",
+    "position": "HR Manager",
+    "department": "HR",
+    "salary": 85000,
+    "isActive": true
+  },
+  {
+    "id": 14,
+    "name": "Noah Thomas",
+    "email": "noah.thomas@example.com",
+    "position": "Full Stack Developer",
+    "department": "Engineering",
+    "salary": 78000,
+    "isActive": true
+  },
+  {
+    "id": 15,
+    "name": "Ava Hernandez",
+    "email": "ava.hernandez@example.com",
+    "position": "Marketing Specialist",
+    "department": "Marketing",
+    "salary": 60000,
+    "isActive": true
+  },
+  {
+    "id": 16,
+    "name": "William Robinson",
+    "email": "william.robinson@example.com",
+    "position": "System Administrator",
+    "department": "IT",
+    "salary": 70000,
+    "isActive": true
+  },
+  {
+    "id": 17,
+    "name": "Harper Clark",
+    "email": "harper.clark@example.com",
+    "position": "Content Writer",
+    "department": "Marketing",
+    "salary": 50000,
+    "isActive": true
+  },
+  {
+    "id": 18,
+    "name": "Benjamin Lewis",
+    "email": "benjamin.lewis@example.com",
+    "position": "Frontend Developer",
+    "department": "Engineering",
+    "salary": 70000,
+    "isActive": true
+  },
+  {
+    "id": 19,
+    "name": "Evelyn Walker",
+    "email": "evelyn.walker@example.com",
+    "position": "SEO Specialist",
+    "department": "Marketing",
+    "salary": 65000,
+    "isActive": true
+  },
+  {
+    "id": 20,
+    "name": "Alexander Young",
+    "email": "alexander.young@example.com",
+    "position": "Blockchain Developer",
+    "department": "Engineering",
+    "salary": 95000,
+    "isActive": true
+  },
+  {
+    "id": 21,
+    "name": "Charlotte Hall",
+    "email": "charlotte.hall@example.com",
+    "position": "Operations Manager",
+    "department": "Operations",
+    "salary": 90000,
+    "isActive": true
+  },
+  {
+    "id": 22,
+    "name": "Lucas King",
+    "email": "lucas.king@example.com",
+    "position": "Network Engineer",
+    "department": "IT",
+    "salary": 80000,
+    "isActive": true
+  },
+  {
+    "id": 23,
+    "name": "Amelia Wright",
+    "email": "amelia.wright@example.com",
+    "position": "Project Manager",
+    "department": "Management",
+    "salary": 95000,
+    "isActive": true
+  }
+]

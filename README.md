@@ -1,6 +1,8 @@
 # Express TypeScript CRUD API
-# Clone the repository:
-  git clone <repository-url>
+  Clone the repository:
+   git clone <repository-url>
+   Install dependencies:
    npm install
-  npm start
+   Build and run the server
+   npm start
 
